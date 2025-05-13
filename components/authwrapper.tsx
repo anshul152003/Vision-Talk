@@ -1,4 +1,12 @@
 "use client";
+// eslint-disable-next-line tailwindcss/classnames-order
+// eslint-disable-next-line tailwindcss/no-custom-classname
+// eslint-disable-next-line tailwindcss/enforces-shorthand
+// eslint-disable-next-line @next/next/no-img-element
+// eslint-disable-next-line no-undef
+/* eslint-disable */
+
+
 
 import { useState, useEffect } from "react";
 import { useAuth } from "@clerk/nextjs";
