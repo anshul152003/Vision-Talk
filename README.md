@@ -83,12 +83,6 @@ Contributions are welcome! Please open issues and submit pull requests for new f
 
 ---
 
-## 🧑‍💻 Author
-
-Made with ❤️ by [Aviraj Bhaliya](https://www.linkedin.com/in/aviraj-bhaliya-4483a7236)
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
