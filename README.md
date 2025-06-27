@@ -88,7 +88,3 @@ Contributions are welcome! Please open issues and submit pull requests for new f
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-```
-
-Would you like me to include badges (like Netlify deploy, license, GitHub stars, etc.) or auto-generate a table of contents too?
